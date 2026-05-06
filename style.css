@@ -57,7 +57,7 @@ video {
     transform: translate(-50%, -50%); /* Centraliza perfeitamente */
     width: 80%; /* Garante que nomes longos não fujam da imagem */
     font-family: 'Great Vibes', cursive;
-    color: var(--rose-gold);
+    color: var(--white);
     /*color: #fff;*/
     font-size: 1.5rem;
     font-weight: 800;
